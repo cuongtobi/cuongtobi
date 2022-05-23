@@ -17,9 +17,7 @@ $profile = [
     "full_name"     => "Vuong Xuan Cuong",
     "gender"        => "Male",
     "date_of_birth" => "29/09/1996",
-    "code"          => ["PHP", "Javascript", "HTML", "CSS", "Ruby", "Docker"],
-    "framework"     => ["Laravel", "Ruby on Rails"],
-    "cms"           => ["Wordpress"],
+    "skills"          => ["PHP", "Ruby", "Javascript", "Laravel", "CSS", "Ruby on Rails"],
     "favorites"     => ["Workout", "Sleep", "Listen to rap music"],
 ];
 ```
