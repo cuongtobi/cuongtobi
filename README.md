@@ -1,7 +1,8 @@
 <h2> Hi, I'm Cuong! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p>
     <em>
-        Developer at <a href="https://netz.vn">NetZ</a><br>
+        Freelancer<br>
+        Former Developer at <a href="https://netz.vn">NetZ</a><br>
         Former Developer at <a href="https://sun-asterisk.vn">Sun*</a>
     </em>
 </p>
